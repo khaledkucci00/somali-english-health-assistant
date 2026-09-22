@@ -1,0 +1,6 @@
+{
+  "name": "Somali English Health Assistant",
+  "description": "A mobile-friendly bilingual health education assistant supporting English and Somali with verified educational topics and emergency safety notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
